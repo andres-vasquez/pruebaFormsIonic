@@ -9,7 +9,7 @@
                 nombre:'',
                 comentario:''};
 
-            $scope.submit=function(){
+            $scope.enviar=function(){
                 alert("Form submited");
             };
         });
